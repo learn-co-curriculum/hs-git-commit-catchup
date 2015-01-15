@@ -3,24 +3,22 @@ tags: kids, git, catch-up
 languages: git
 type: catch-up
 ---
+### Putting Code Online
+<img src="https://after-school-assets.s3.amazonaws.com/fried.jpg" width="200px" align="right" hspace="10"> So you finish a lab, and then you accidentally spill Coke all over your laptop and fry it. It's the modern-day version of "my dog ate my homework." Good thing the tech industry's got your back thanks to version control with Git and GitHub.
 
-##Putting Code Online
+So far, you've been using GitHub to pull labs from github.com and download them to your computer to work on. The real power of GitHub comes through doing the exact opposite: creating a project locally (or on your own computer) then saving your code remotely (or in the cloud).
 
-So you do a lab, and then you spill water all over your laptop and fry it. It's the modern day version of "my dog ate my homework". Good thing the tech industry has thought of that. 
+### What is Version Control?
+Let's say you're working on an application. You save your work at 5pm. Then you add a couple features and save again at 5:15pm. Then you make another edit and save at 5:30pm. But you realize that 5:30pm save was a huge mistake because you accidentally deleted an important chunk of code. If only you could go back to that 5:15pm version! If you're using **version control** with Git, you can! **Version control** is the process of storing multiple versions of a single project, allowing each version to be recalled at a later date. **Git** is a program that allows you to 
 
-So far, we've been using Github just to take labs from the cloud and bring them down to our ocmputers to work on them, but the real power of github comes in the form of version control and hosting your code in the cloud. Version control means the ability to save snapshots of your work over time so that you can go back to different snapshots if you mess something up down the line. We can push these snapshots (called commits) to github so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
+###What is Git?
+> “The past is never where you think you left it.” — [Katherine Anne Porter](http://en.wikipedia.org/wiki/Katherine_Anne_Porter)
 
-###What is GIT?
-
-First of all, it’s important to note that git and github aren’t the same thing. Github is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
-
+First of all, it’s important to note that Git and GitHub aren’t the same thing. **GitHub** _is a popular remote repository hosting service_. It's where we save our code in the cloud. **Git** _is a version control system that lives on your computer_. Git and Github integrate seamlessly together.
 
 ###Git with Github
-We use the Git in order to host our code on Github.
-
-Let's say you work on a lab, and get half of the tests passing, but then you have to go home for the day. But there's a risk you could drop your laptop in the Hudson river on the way home and you'd lose all your work. So besides emailing it to yourself, which is incredibly tedious, how could you easily save your code?
-
+Let's say you work on a lab and get half of the tests passing, but then you have to go home for the day. There's a risk you could drop your laptop in the Hudson River on the way home and you'd lose all your work. Besides emailing it to yourself, which is incredibly tedious, how could you easily save your code?
 
 The best way to save your work it to put it on Github in a repository. So how do we get it there?
 
