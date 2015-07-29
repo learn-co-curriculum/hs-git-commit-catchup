@@ -1,8 +1,4 @@
----
-tags: kids, git, catch-up
-languages: git
-type: catch-up
----
+
 ### Putting Code Online
 <img src="https://after-school-assets.s3.amazonaws.com/fried.jpg" width="200px" align="right" hspace="10"> So you finish a lab, and then you accidentally spill Coke all over your laptop and fry it. It's the modern-day version of "my dog ate my homework." Good thing the tech industry's got your back thanks to **version control** with **Git** and **GitHub**.
 
