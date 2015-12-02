@@ -43,3 +43,5 @@ So heres's a summary of that workflow:
 * `git add file_name`
 * `git commit -m "commit message"`
 * `git push`
+
+<a href='https://learn.co/lessons/hs-git-commit-catchup' data-visibility='hidden'>View this lesson on Learn.co</a>
