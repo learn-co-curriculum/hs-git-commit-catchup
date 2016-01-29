@@ -44,4 +44,4 @@ So heres's a summary of that workflow:
 * `git commit -m "commit message"`
 * `git push`
 
-<a href='https://learn.co/lessons/hs-git-commit-catchup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-git-commit-catchup' title='Putting Code Online'>Putting Code Online</a> on Learn.co and start learning to code for free.</p>
